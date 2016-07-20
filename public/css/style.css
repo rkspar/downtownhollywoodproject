@@ -29,13 +29,13 @@ h4,
 h5,
 h6,
 .navbar .navbar-nav {
-  font-family: 'Exo-Bold', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 body {
-  font-family: 'Exo-Bold', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .logo-font {
-  font-family: 'Exo-Bold', cursive, sans-serif;
+  font-family: 'Pacifico', cursive, sans-serif;
 }
 /*Typography
 ---------------------------------- */
@@ -236,14 +236,14 @@ blockquote:after {
   height: 25px;
   line-height: 36px;
   font-size: 36px;
-  font-family: 'Exo-Bold', serif;
+  font-family: 'PT Serif', serif;
   position: absolute;
   top: 12px;
   left: 0px;
   color: #cdcdcd;
 }
 .blockquote:before {
-  font-family: 'Exo-Bold', serif;
+  font-family: 'PT Serif', serif;
   content: "“";
   font-size: 40px;
 }
@@ -1866,7 +1866,7 @@ h5 + .separator {
   }
   .timeline .timeline-item:after {
     content: "";
-    font-family: "Exo-Bold";
+    font-family: "FontAwesome";
     right: 0px;
     background-color: #eaeaea;
     left: auto;
@@ -2989,7 +2989,7 @@ ul.pagination li.active a,
   padding-left: 0;
 }
 .breadcrumb > li + li:before {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   content: "\f101";
   font-size: 11px;
   padding-left: 3px;
@@ -3086,7 +3086,7 @@ ul.pagination li.active a,
   border-color: transparent;
 }
 .nav-pills.nav-stacked:not(.list-style-icons) > li > a:after {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   content: "\f101";
   font-size: 12px;
   position: absolute;
@@ -3123,7 +3123,7 @@ ul.pagination li.active a,
   position: relative;
 }
 .process .nav-pills > li + li:after {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   content: "\f101";
   position: absolute;
   top: 6px;
@@ -3178,7 +3178,7 @@ ul.pagination li.active a,
   color: #777777;
 }
 .collapse-style-1 .panel-heading a:after {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   content: "\f146";
   position: absolute;
   right: 15px;
@@ -3217,7 +3217,7 @@ ul.pagination li.active a,
   background-color: #333333;
 }
 .collapse-style-2 .panel-heading a:after {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   content: "\f106";
   position: absolute;
   right: 15px;
@@ -3259,7 +3259,7 @@ ul.pagination li.active a,
   background-color: #999999;
 }
 .collapse-style-3 .panel-heading a:after {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   content: "\f139";
   position: absolute;
   right: 15px;
@@ -3284,7 +3284,7 @@ ul.pagination li.active a,
 }
 /*Contextual Headings*/
 .collapse-contextual .panel-heading a:after {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   content: "\f068";
   position: absolute;
   right: 15px;
@@ -4448,7 +4448,7 @@ fieldset[disabled] .form-control {
   color: #fff;
   background: #09afdf;
   border-radius: 50%;
-  font-family: "Exo-Bold", sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   font-size: 14px;
   font-weight: 100;
   line-height: 45px;
@@ -4613,7 +4613,7 @@ fieldset[disabled] .form-control {
   border-radius: 50%;
   background: #09afdf;
   color: #fff;
-  font-family: "Exo-Bold", sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   font-weight: 100;
   text-align: center;
   -webkit-animation: pace-theme-center-circle-spin linear infinite 2s;
@@ -4707,7 +4707,7 @@ fieldset[disabled] .form-control {
   top: 0;
   right: .5rem;
   content: attr(data-progress-text);
-  font-family: "Exo-Bold", sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   font-weight: 100;
   font-size: 100px;
   line-height: 1;
@@ -5058,7 +5058,7 @@ header .dropdown-menu > li.active > a i.fa-circle-o:before {
 /* Arrow for parent menu item 
 ------------------------------ */
 .dropdown > a:before {
-  font-family: 'Exo-Bold';
+  font-family: 'FontAwesome';
   content: "\f107";
   position: absolute;
   left: auto;
@@ -5574,7 +5574,7 @@ header.full-width .animated.main-navigation .dropdown-menu .open .dropdown-menu.
   border-radius: 0;
 }
 .offcanvas-toggle-left:after {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   content: "\f0c9";
   font-size: 22px;
   line-height: 35px;
@@ -5601,7 +5601,7 @@ header.full-width .animated.main-navigation .dropdown-menu .open .dropdown-menu.
   border-radius: 0;
 }
 .offcanvas-toggle-right:after {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   content: "\f0c9";
   font-size: 22px;
   line-height: 35px;
@@ -6767,7 +6767,7 @@ h6.media-heading {
   position: absolute;
   top: 0px;
   left: -15px;
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   content: "\f059";
   color: #ddd;
   font-size: 12px;
@@ -7085,14 +7085,14 @@ h6.media-heading {
 }
 .xlarge_white {
   font-size: 68px;
-  font-family: 'Exo-Bold', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   color: #ffffff;
   line-height: 1.2;
 }
 .large_white {
   font-size: 42px;
-  font-family: 'Exo-Bold', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: #ffffff;
   line-height: 1.2;
 }
@@ -7108,14 +7108,14 @@ h6.media-heading {
 }
 .xlarge_dark {
   font-size: 68px;
-  font-family: 'Exo-Bold', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   color: #333;
   line-height: 1.2;
 }
 .large_dark {
   font-size: 42px;
-  font-family: 'Exo-Bold', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: #333;
   line-height: 1.2;
 }
@@ -7360,7 +7360,7 @@ h6.media-heading {
   color: #ffffff;
   text-transform: none;
   font-weight: 300;
-  font-family: 'Exo-Bold', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 /*Slider Revolution 5*/
 .hebe.tparrows {
@@ -7387,7 +7387,7 @@ h6.media-heading {
 .hebe .tp-arr-titleholder {
   text-transform: none;
   font-weight: 300;
-  font-family: 'Exo-Bold', sans-serif;
+  font-family: 'Raleway', sans-serif;
   padding-left: 70px;
 }
 .hebe.tp-rightarrow .tp-arr-titleholder {
@@ -7562,7 +7562,7 @@ h6.media-heading {
 }
 .content-slider-with-controls .owl-buttons div:after,
 .content-slider-with-controls-autoplay .owl-buttons div:after {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   position: absolute;
   font-size: 16px;
   line-height: 1;
@@ -7642,7 +7642,7 @@ h6.media-heading {
 }
 .content-slider-with-large-controls .owl-buttons div:after,
 .content-slider-with-large-controls-autoplay .owl-buttons div:after {
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   position: absolute;
   font-size: 16px;
   line-height: 1;
@@ -7764,7 +7764,7 @@ h6.media-heading {
 }
 #fp-nav ul li .fp-tooltip:after {
   content: "\f0da";
-  font-family: "Exo-Bold";
+  font-family: "FontAwesome";
   position: absolute;
   right: -8px;
   top: 50%;
